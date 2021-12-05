@@ -2,7 +2,7 @@
 
 ## English 
 This program can rename files sequentially any way you want. <br/>
-I recommend renaming files sequentially in a folder just forone file type (folder only with images, documents, videos, etc).<br/>
+I recommend renaming files sequentially in a folder just for one file type (folder only with images, documents, videos, etc).<br/>
 If there are images and videos in a folder, the program will not rename in order for each file of each type.<br/>
 
 It will be:<br/>
